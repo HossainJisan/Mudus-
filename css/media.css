@@ -1,0 +1,383 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*slider start*/
+	.slider {
+    margin-top: 50px;
+    }
+    .s_p {
+    font-size: 11px;
+    margin-bottom: 35px;
+    }
+    .s_h1 {
+    font-size: 28px;
+    margin-bottom: 25px;
+    }
+    .s_btn {
+    height: 40px;
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 0;
+    }
+    .slider img {
+    margin-top: 70px;
+    }
+	/*slider end*/
+
+	/*history start*/
+	.history {
+    margin-top: 45px;
+    margin-bottom: 40px;
+    }
+    .h_h1 {
+    margin-bottom: 30px;
+    }
+    .h_img {
+    margin-bottom: 25px;
+    }
+    .h_p {
+    font-size: 13px;
+    }
+	/*history end*/
+	/*work start*/
+	.single {
+        margin: 50px 0;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    }
+    .m_t_0 {
+    margin-top: 0 !important;
+    }
+    .mt_t_0 {
+    margin-top: 0 !important;
+    }
+    .w_h1 {
+    margin-bottom: 20px;
+    }
+    .w_p {
+    font-size: 13px;
+    }
+	/*work end*/
+	/*our clients start*/
+	.our_clients h1 {
+    margin-top: 60px;
+    }
+    .our_clients p {
+    font-size: 13px;
+    }
+    .clients_item {
+    margin-left: 23%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    }
+    .our_clients_2nd_row a img {
+    width: 86%;
+    height: 36px;
+    }
+	/*our clients end*/
+	/*About Us start*/
+	.a_wrapper1 {
+    margin: 40px 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 35px;
+    }
+    .a_wrapper1 h1 {
+    margin-bottom: 20px !important;
+    }
+    .a_wrapper1 p {
+    margin-top: 20px;
+    }
+    .a_wrapper1 button {
+    margin-top: 41px;
+    margin-left: 76%;
+    }
+    .c_email {
+    font-size: 13px;
+    }
+    .c_text{
+    font-size: 13px;
+    }
+    .C_P {
+    margin-top: 0;
+    }
+    .C_P h1 {
+    padding-bottom: 35px;
+    }
+	/*About Us end*/
+	/*footer start*/
+	.f_text {
+	margin-left: 10%;
+    margin-top: 35px;
+    margin-bottom: 48px;
+    width: 90%; 
+    }
+    .f_icon {
+    margin-top: -33px;
+    margin-bottom: 30px;
+    margin-left: 30%;
+    }
+    .f_icon ul li a img {
+    padding-left: 8px;
+    }
+	/*footer end*/
+	
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*slider start*/
+	.slider {
+    margin-top: 95px;
+    }
+    .s_p {
+    font-size: 13px;
+    }
+    .s_h1 {
+    font-size: 40px;
+    }
+    .slider img {
+    margin-top: 105px;
+    }
+	/*slider end*/
+
+	/*history start*/
+	.history {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    }
+	/*history end*/
+	/*portfollio start*/
+	.m_t_4 {
+    margin-top: 10px;
+    }
+	/*portfollio end*/
+	/*work start*/
+	.single {
+        margin: 50px 0;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    }
+    .m_t_0 {
+    margin-top: 0 !important;
+    }
+    .w_h1 {
+    margin-bottom: 20px;
+    }
+	/*work end*/
+	/*our clients start*/
+	.our_clients h1 {
+    margin-top: 60px;
+    }
+    .clients_item {
+    margin-left: 23%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    }
+    .our_clients_2nd_row a img {
+    width: 80%;
+    }
+	/*our clients end*/
+	/*About Us start*/
+	.a_wrapper1 {
+    margin: 50px 0;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    }
+    .a_wrapper1 h1 {
+    margin-bottom: 25px !important;
+    }
+    .a_wrapper1 p {
+    margin-top: 30px;
+    }
+    .C_P {
+    margin-top: 0;
+    }
+	/*About Us end*/
+	/*footer start*/
+	.f_text {
+	margin-left: 30%;
+	margin-top: 35px;
+    margin-bottom: 48px;
+    width: 153%; 
+    }
+    .f_icon {
+    margin-top: -33px;
+    margin-bottom: 30px;
+    margin-left: 40%;
+    }
+    .f_icon ul li a img {
+    padding-left: 8px;
+    }
+	/*footer end*/
+	
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*slider start*/
+	.slider {
+    margin-top: 138px;
+    }
+    .s_p {
+    font-size: 13px;
+    }
+    .s_h1 {
+    font-size: 40px;
+    }
+    .slider img {
+    margin-top: 105px;
+    }
+	/*slider end*/
+
+	/*history start*/
+	.history {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    }
+	/*history end*/
+	/*portfollio start*/
+	.m_t {
+    margin-top: 10px;
+    }
+	/*portfollio end*/
+	/*work start*/
+	.single {
+    margin: 90px 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    }
+    .w_h1 {
+    margin-bottom: 20px;
+    }
+	/*work end*/
+	/*our clients start*/
+	.our_clients h1 {
+    margin-top: 80px;
+    }
+    .clients_item {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-left: 19%;
+    }
+    .our_clients_2nd_row a img {
+    height: 75%;
+    width: 75%;
+    }
+	/*our clients end*/
+	/*About Us start*/
+	.a_wrapper1 {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 70px;
+    padding-bottom: 80px;
+    }
+    .a_wrapper1 button {
+    margin-left: 68%;
+    }
+    .C_P {
+    padding-bottom: 190px !important;
+    }
+    .C_P h1 {
+    padding-bottom: 100px;
+    }
+	/*About Us end*/
+	/*footer start*/
+	.f_text {
+	margin-top: 48px;
+    margin-bottom: 48px;
+    width: 153%; 
+    }
+    .f_icon {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    }
+    .f_icon ul li a img {
+    padding-left: 8px;
+    }
+	/*footer end*/
+	
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	/*history start*/
+	.history {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    }
+	/*history end*/
+	/*work start*/
+	.single {
+    margin: 130px 0;
+    padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 56px;
+    padding-top: 56px;
+    }
+    .w_h1 {
+    margin-bottom: 30px;
+    }
+	/*work end*/
+	/*our clients start*/
+	.our_clients h1 {
+    margin-top: 100px;
+    }
+    .clients_item {
+    margin-left: 11%;
+    margin-top: 100px;
+    margin-bottom: 130px; 
+    }
+	/*our clients end*/
+	/*About Us start*/
+	.a_wrapper1 {
+    padding-bottom: 90px;
+    }
+    .C_P {
+    padding-bottom: 138px;
+    }
+	/*About Us end*/
+	/*footer start*/
+	.f_text {
+	margin-top: 48px;
+    margin-bottom: 48px;
+    width: 110%; 
+    }
+    .f_icon {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    }
+    .f_icon ul li a img {
+    padding-left: 20px;
+    }
+	/*footer end*/
+	
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+	/*About Us start*/
+	.C_P {
+    padding-bottom: 110px;
+    }
+	/*About Us end*/
+	/*footer start*/
+	.f_icon ul li a img {
+    padding-left: 28px;
+    }
+	/*footer end*/
+	
+}
+
+/*Extra Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+	
+}
