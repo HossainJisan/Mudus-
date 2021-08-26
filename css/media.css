@@ -38,6 +38,11 @@
     font-size: 13px;
     }
 	/*history end*/
+    /*portfollio start*/
+    .port:hover .port_overly {
+    height: 230px;
+    }
+    /*portfollio end*/
 	/*work start*/
 	.single {
         margin: 50px 0;
@@ -153,6 +158,12 @@
 	.m_t_4 {
     margin-top: 10px;
     }
+    .p_icon {
+    margin-top: 35px;
+    }
+    .port:hover .port_overly {
+    height: 285px;
+    }
 	/*portfollio end*/
 	/*work start*/
 	.single {
@@ -246,6 +257,9 @@
 	.m_t {
     margin-top: 10px;
     }
+    .port:hover .port_overly {
+    height: 259px;
+    }
 	/*portfollio end*/
 	/*work start*/
 	.single {
@@ -278,7 +292,7 @@
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 70px;
-    padding-bottom: 80px;
+    padding-bottom:25px;
     }
     .a_wrapper1 button {
     margin-left: 68%;
@@ -309,6 +323,18 @@
 
 /*Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    /*portfollio start*/
+    .port:hover .port_overly {
+    height: 296px;
+    }
+    .port_overly h2 {
+    margin-top: 25px;
+    margin-bottom: 14px; 
+    }
+    .port_overly p {
+    font-size: 13px;
+    }
+    /*portfollio end*/
 	/*history start*/
 	.history {
     margin-top: 100px;
@@ -369,6 +395,11 @@
     padding-bottom: 110px;
     }
 	/*About Us end*/
+    /*portfollio start*/
+    .port_overly h2 {
+    margin-top: 25px;
+    }
+    /*portfollio end*/
 	/*footer start*/
 	.f_icon ul li a img {
     padding-left: 28px;
