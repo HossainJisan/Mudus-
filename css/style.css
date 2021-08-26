@@ -38,8 +38,6 @@
 }
 .menu ul li a:hover{
 	color: #00c7fc !important;
-	font-size: 14px;
-	font-weight: 500;
 }
 /*header end*/
 /*slider start*/
@@ -110,8 +108,8 @@
 	background-color: #F4F4F4;
 }
 .history {
-    margin-top: 140px;
-    margin-bottom: 150px;
+    margin-top: 110px;
+    margin-bottom: 120px;
 }
 .h_h1 {
     font-family: 'Montserrat', sans-serif;;
@@ -127,7 +125,7 @@
 	margin: 0;
     font-family: Crimson_Text_Roman;
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
     color: #637988;
     line-height: 25px;
     word-spacing: 5px;
@@ -141,17 +139,15 @@
 .m_t_4{}
 .port{
 	width: 100%;
-	height: 555px;
 	position: relative;
 	cursor: pointer;
 }
 .port:hover .port_overly{
-	height: 350px;
+	height: 300px;
 }
 .port img{
 	display: block;
 	width: 100%;
-	height: 555px;
 }
 .port_overly{
 	width: 100%;
@@ -168,8 +164,8 @@
 	transition: .7s ease;
 }
 .port_overly h2{
-	margin-top: 50px;
-	margin-bottom: 40px;
+	margin-top: 40px;
+	margin-bottom: 15px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
 	font-size: 14px;
@@ -178,14 +174,15 @@
 	display: block;
 }
 .port_overly p{
-	margin-bottom: 40px;
+	margin-bottom: 15px;
 	font-family: Crimson_Text_Roman;
 	font-weight: 400;
 	font-size: 15px;
 	color: #ffffff;
 	word-spacing: 1px;
 }
-.p_iconul{}
+.p_icon{}
+.p_icon ul{}
 .p_icon ul{}
 .p_icon ul li{}
 .p_icon ul li a{}
@@ -411,3 +408,4 @@
 	padding-left: 40px;
 }
 /*footer end*/
+
